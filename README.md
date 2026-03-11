@@ -1,2 +1,2 @@
-# Trump-Senator-speech
-A speech given by Senator Gordon Whitehouse to the US Senate March 5, 2026.
+# 3D-readout
+3 dimensional looking readout of Silus Gaming World. More to be added to sentencing.
